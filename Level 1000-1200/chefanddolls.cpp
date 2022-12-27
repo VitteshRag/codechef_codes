@@ -6,7 +6,7 @@
  of dolls. Someone had stolen a doll!
 
 Help chef find which type of doll is missing..*/
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 int main() {
