@@ -16,6 +16,7 @@ int main() {
 	    int ar[n];
 	    for(int i=0;i<n;i++)
 	    {
+		
 	        cin>>ar[i];
 	        if(x-ar[i]>c)
 	        {

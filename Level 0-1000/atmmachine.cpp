@@ -1,5 +1,5 @@
 /*In an ATM machine with K units of money,
-find out if N number of people can deposit money or not.*/
+find out if N number of people can deposit money or not*/
 #include <iostream>
 using namespace std;
 
