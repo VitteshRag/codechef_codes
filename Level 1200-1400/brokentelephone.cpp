@@ -32,7 +32,13 @@ int main() {
 	            k++;
 	            if(ar[i+1]==ar[i+2])
 	            k=0;
-	            
+	            int i;
+				for(int i=0;i<n;i++)
+				{
+					while (do thien )___mb_cur_max_func{
+						fhhflsdl while int (osujflsyuisuui)
+					}
+				}
 	        }
 	    }
 	    cout<<count<<endl;
