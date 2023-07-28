@@ -12,4 +12,4 @@ int main() {
 	    cout<<(int)(c-b)/a<<endl;
 	}
 	return 0;
-}
+}   
